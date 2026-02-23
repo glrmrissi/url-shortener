@@ -1,4 +1,4 @@
-# #URL Shortener
+# URL Shortener
 
 ## URL shortener developed in Go using Gin and Redis.
 
